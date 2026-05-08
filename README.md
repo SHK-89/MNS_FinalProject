@@ -61,15 +61,3 @@ The project successfully reproduced several important qualitative and quantitati
 - The correlation between SWR amplitude and the **next** inter-event interval was weak.
 
 These findings support the idea that a disinhibition-based bistable network can reproduce several properties of hippocampal SWRs.
-
-## Repository Structure
-
-A suggested repository structure is:
-
-```text
-.
-├── SWR_project.ipynb        # Main simulation and analysis notebook
-├── README.md                # Project documentation
-├── report/                  # Optional: project report and presentation files
-├── figures/                 # Optional: generated plots and result figures
-└── requirements.txt         # Optional: Python dependencies
