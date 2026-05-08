@@ -1,5 +1,4 @@
-# CP_FinalProject
-readme = r"""# Sharp Wave Ripples in a Bistable Network
+# Sharp Wave Ripples in a Bistable Network
 
 This mini project simulates **sharp wave-ripple complexes (SWRs)** in a simplified hippocampal CA3 network model. The project was developed for the *Models of Neural Systems – Computer Practical* course at BCCN Berlin.
 
